@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+.header_txt {
+    padding: 2rem 0;
+    font-size: 3rem;
+    color: white;
+    font-family: 'Black Han Sans', sans-serif;
+    text-align: center;
+}

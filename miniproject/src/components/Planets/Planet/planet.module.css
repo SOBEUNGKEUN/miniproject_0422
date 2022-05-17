@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300&display=swap');
+
+.planet {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.planet__info {
+    width: 100%;
+}
+
+.planet h3 {
+    margin: 0 0 0.25rem 0;
+    /* 상, 우, 하, 좌 (시계방향)*/
+
+}
+
+.description {
+    font-style: italic;
+    font-family: 'Sunflower', sans-serif;
+}
+
+
+.koName {
+    color: #39aeae;
+}
+
+.revcycle {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.rotationcycle {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.avgtemperature {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.maxtemperature {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.mintemperature {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.satellite {
+    font-family: 'Sunflower', sans-serif;
+}

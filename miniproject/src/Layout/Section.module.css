@@ -1,0 +1,27 @@
+.planet_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* width: 800px; */
+    list-style: none;
+}
+
+.planet_li {
+    width: 380px;
+    padding-top: 3.5rem;
+    vertical-align: middle;
+}
+
+.planet_img {
+    width: 12rem;
+}
+
+.planet_img_saturn {
+    padding-top: 2rem;
+    width: 15rem;
+}
+
+.planet_img_uranus {
+    padding-top: 2rem;
+    width: 13rem;
+}
